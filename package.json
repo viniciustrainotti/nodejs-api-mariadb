@@ -1,5 +1,5 @@
 {
-  "name": "rest-api",
+  "name": "nodejs-api-mariadb",
   "version": "1.0.0",
   "description": "Teste Rest API",
   "main": "index.js",
