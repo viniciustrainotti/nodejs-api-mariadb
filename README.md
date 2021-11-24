@@ -1,2 +1,3 @@
-# api-test
-testes de api node.js
+# nodejs-api-mariadb
+
+It tests API with MariaDB
